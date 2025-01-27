@@ -2334,7 +2334,7 @@ styl
 	#nav {
 		position: absolute;
 		display: block;
-        /* position: fixed; /* Set the navbar to fixed position */
+        position: fixed; /* Set the navbar to fixed position */
 		top: 2.5em;
 		left: 0;
 		width: 100%;
@@ -2504,7 +2504,7 @@ styl
 
 		ul.icons li {
 			display: inline-block;
-			padding: 0 1em 0 0;
+			padding: 0 2em 0 0;
 		}
 
 			ul.icons li:last-child {
@@ -2602,14 +2602,6 @@ styl
 			padding-left: 0;
 			line-height: inherit;
 		}
-        
-        #footer .html5-link {
-            color: rgba(244, 244, 255, 0.2); /* Desired color for HTML5 UP link */
-            text-decoration: none; /* Optional: Remove underline */
-        }
-
-        #footer .html5-link:hover {
-            color: #1d6fa5; /* Optional: Hover color */
 
 
 	}
